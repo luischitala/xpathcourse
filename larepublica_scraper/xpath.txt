@@ -1,0 +1,5 @@
+Links = //h2/a/@href
+Título = //div[@class="mb-auto"]/h2/a/
+Autor = //div[@class="autorArticle"]/p/
+Resumen = //div[@class="lead"]/p/
+Cuerpo = //div[@class="html-content"]/p[not(@class)]/text()
